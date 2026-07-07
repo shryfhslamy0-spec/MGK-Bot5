@@ -1,0 +1,5 @@
+mkdir MGK-Store-Pro
+cd MGK-Store-Pro
+npm init -y
+npm install discord.js mongoose dotenv discord-html-transcripts
+npm install -D nodemon
